@@ -1,7 +1,7 @@
 {
     "name" : "facebook-signed-request",
     "description" : "Facebook Signed Request de- and encoder for node.js",
-    "version" : "0.0.1",
+    "version" : "0.0.2",
     "main" : "./index",
     "author" : "Patrick Huesler <patrick.huesler@googlemail.com>",
     "contributors" : [
